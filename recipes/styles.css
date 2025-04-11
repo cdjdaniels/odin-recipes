@@ -4,6 +4,10 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+a, button { 
+    color: whitesmoke;
+    background-color: darkslateblue;
+}
 h1 {
     font-size: 48px;
     font-weight: 800;
