@@ -2,11 +2,13 @@
     background-color: whitesmoke;
     color: darkslateblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 400px;
 }
 
 a, button { 
     color: whitesmoke;
     background-color: darkslateblue;
+    width: 70px;
 }
 h1 {
     font-size: 48px;
